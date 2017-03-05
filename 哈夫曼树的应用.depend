@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1467889027 source:e:\data struckture\homework\哈夫曼树的应用\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+
+1467889789 source:e:\data struckture\homework\哈夫曼树的应用\tree.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+
+1467883582 e:\data struckture\homework\哈夫曼树的应用\tree.h
+
